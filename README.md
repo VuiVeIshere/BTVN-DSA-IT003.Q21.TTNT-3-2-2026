@@ -4,7 +4,7 @@ Họ và tên: Nguyễn Chánh Nghĩa
 
 MSSV: 25521191
 
-Lớp: IT003.Q21.TTNT
+Lớp: ATTT2025.2
 
 Các bước thực hiện bao gồm:
 
