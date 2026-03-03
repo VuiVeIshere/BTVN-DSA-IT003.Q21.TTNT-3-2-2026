@@ -19,8 +19,9 @@ for i in range( 10 ):
     for arr in a:
         array = np.array( arr )
         #np.sort( array, kind = "mergesort" )
-        merge_sort( a )
+        merge_sort( array )
     Time = time.time() - start 
     print( f" Thoi gian thuc thi lan { i + 1 } ", Time)
     avg += Time
+
 print( "Thoi gian trung binh: ", avg / 10 )
