@@ -19,8 +19,9 @@ for i in range( 10 ):
     for arr in a:
         array = np.array( arr )
         np.sort( array, kind = "heapsort" )
-        #heap_sort( a )
+        #heap_sort( arrray )
     Time = time.time() - start 
     print( f" Thoi gian thuc thi lan { i + 1 } ", Time)
     avg += Time
+
 print( "Thoi gian trung binh: ", avg / 10 )
